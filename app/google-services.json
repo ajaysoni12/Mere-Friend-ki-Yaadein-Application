@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797308680255",
+    "project_id": "mere-friends-ki-yaadein",
+    "storage_bucket": "mere-friends-ki-yaadein.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797308680255:android:1fc5e6d3bc1f05be56a08a",
+        "android_client_info": {
+          "package_name": "com.example.merefriendskiyaden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797308680255-tks0pjtf5q6gsfqdv7p2pfkemprnebo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwJ1IdT-cLWk-WefB4Rhv95pTrYZY1JYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797308680255-tks0pjtf5q6gsfqdv7p2pfkemprnebo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
