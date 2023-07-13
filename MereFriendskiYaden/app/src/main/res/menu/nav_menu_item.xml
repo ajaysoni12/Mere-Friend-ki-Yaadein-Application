@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item   android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/ic_home"/>
+
+    <item   android:id="@+id/nav_memories"
+            android:title="Memories"
+            android:icon="@drawable/memo"/>
+
+    <item   android:id="@+id/nav_groupDetails"
+            android:title="Group Details"
+            android:icon="@drawable/group"/>
+
+
+    <item   android:id="@+id/nav_adminDetails"
+            android:title="Admin Details"
+            android:icon="@drawable/admin"/>
+
+    <item   android:id="@+id/nav_myPofile"
+            android:title="My Profile"
+            android:icon="@drawable/user"/>
+
+
+
+</menu>
